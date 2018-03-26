@@ -286,6 +286,9 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+<<<<<<< HEAD
 
 # Executables
 *.exe
+=======
+>>>>>>> 62286940ad35a24953b04b70e3d1b6c15fcd7001
